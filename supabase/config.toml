@@ -1,0 +1,2 @@
+[functions.check-slumps]
+verify_jwt = false
